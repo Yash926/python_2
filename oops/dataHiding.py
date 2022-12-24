@@ -6,7 +6,7 @@ class Person:
         return self.__name
     def getAge(self):
         return self.__age
-Person1=Person("yash",22)
+Person1=Person("Yash",22)
 # print(Person1.__name)
 print(Person1._Person__name)
 
