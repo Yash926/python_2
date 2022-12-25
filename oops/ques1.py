@@ -10,7 +10,7 @@
 # person1.printOutput()
 # person2.printOutput()
 class Person:
-    def __init__(self):
+    def __init__(self):             #it is constructor it doesn't needs calling
         self.name="yash"             #these are called instance variable
         self.age=18
     def updateName(self):
